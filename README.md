@@ -13,7 +13,7 @@ The CIMPLC is based, as much as possible, on readily-available parts. Since the 
 ### Interfaces
 - RS232
 - RS485
-- CAN
+- ~~CAN~~ (See limitations)
 - WiFi / Bluetooth
 
 ### Input / Output
@@ -29,10 +29,12 @@ The CIMPLC is based, as much as possible, on readily-available parts. Since the 
 - Built-in optimizing compiler to translate IEC 61131-3 instructions to bytecode which can be loaded faster from EEPROM.
 ## Limitations
 
-Due to the fast development cycle and my inexperience with electronics, the outputs are only able to source current, not sink. The implementation, using solid-state relays, allow to source +12v when the pin is driven high, but otherwise leaves the pin floating.
+- Due to the fast development cycle and my inexperience with electronics, the outputs are only able to source current, not sink. The implementation, using solid-state relays, allow to source +12v when the pin is driven high, but otherwise leaves the pin floating.
 
-Similarly, due to my inexperience, I avoided implementing onboard power management, relying on an external +12v power supply, able to drive the pin outputs, as well as a +5v rail to power the control side. There will probably be more things , but this is all I've discovered up at this point.
+- Similarly, due to my inexperience, I avoided implementing onboard power management, relying on an external +12v power supply, able to drive the pin outputs, as well as a +5v rail to power the control side. There will probably be more things , but this is all I've discovered up at this point.
 
+- An oversight has been the fact that strapping pins 0 and 2 have been used, which control going into the bootloader. As such, all reboots would necessitate the CANH line being high.
+As such, it has been removed and functionality abandoned.
 
 ## License
 
