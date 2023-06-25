@@ -448,13 +448,13 @@
   (symbol (lib_id "PCA9555PW_118:PCA9555PW,118") (at 129.54 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1772eaf4-1bf4-43f4-9c27-1c47e1eef75a)
-    (property "Reference" "IC44" (at 146.05 76.2 0)
+    (property "Reference" "IC?" (at 146.05 76.2 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PCA9555PW,118" (at 146.05 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PCA9555PW,118:SOP65P640X110-24N" (at 158.75 178.105 0)
+    (property "Footprint" "PCA9555PW_118:SOP65P640X110-24N" (at 158.75 178.105 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "http://www.nxp.com/docs/en/data-sheet/PCA9555.pdf" (at 158.75 278.105 0)
@@ -502,7 +502,7 @@
     (instances
       (project "PLC-CIM"
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf"
-          (reference "IC44") (unit 1)
+          (reference "IC?") (unit 1)
         )
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/35995f38-68c0-46e2-b2fd-985fe3f09ad0"
           (reference "IC44") (unit 1)
@@ -517,7 +517,7 @@
   (symbol (lib_id "power:+3.3V") (at 178.435 75.565 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4fff083c-3d91-4939-b1d4-7624c7004416)
-    (property "Reference" "#PWR0118" (at 178.435 79.375 0)
+    (property "Reference" "#PWR0274" (at 178.435 79.375 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 178.435 72.39 0)
@@ -533,10 +533,10 @@
     (instances
       (project "PLC-CIM"
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/35995f38-68c0-46e2-b2fd-985fe3f09ad0"
-          (reference "#PWR0118") (unit 1)
+          (reference "#PWR0274") (unit 1)
         )
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/be2e0416-3be1-412f-8c3d-deda81998237"
-          (reference "#PWR0123") (unit 1)
+          (reference "#PWR0277") (unit 1)
         )
       )
     )
@@ -545,7 +545,7 @@
   (symbol (lib_id "power:+3.3V") (at 121.285 78.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7c6e3957-d673-4eee-a3c5-256a0fbf2e8a)
-    (property "Reference" "#PWR0119" (at 121.285 81.915 0)
+    (property "Reference" "#PWR0275" (at 121.285 81.915 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 121.285 74.93 0)
@@ -561,10 +561,10 @@
     (instances
       (project "PLC-CIM"
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/35995f38-68c0-46e2-b2fd-985fe3f09ad0"
-          (reference "#PWR0119") (unit 1)
+          (reference "#PWR0275") (unit 1)
         )
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/be2e0416-3be1-412f-8c3d-deda81998237"
-          (reference "#PWR0121") (unit 1)
+          (reference "#PWR0278") (unit 1)
         )
       )
     )
@@ -573,7 +573,7 @@
   (symbol (lib_id "power:GND") (at 121.285 114.935 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a0010584-1a4e-4e05-bc2a-1060467ebb86)
-    (property "Reference" "#PWR0120" (at 121.285 121.285 0)
+    (property "Reference" "#PWR0276" (at 121.285 121.285 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 121.285 119.38 0)
@@ -589,10 +589,10 @@
     (instances
       (project "PLC-CIM"
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/35995f38-68c0-46e2-b2fd-985fe3f09ad0"
-          (reference "#PWR0120") (unit 1)
+          (reference "#PWR0276") (unit 1)
         )
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/be2e0416-3be1-412f-8c3d-deda81998237"
-          (reference "#PWR0122") (unit 1)
+          (reference "#PWR0279") (unit 1)
         )
       )
     )

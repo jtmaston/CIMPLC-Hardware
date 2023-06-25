@@ -290,7 +290,7 @@
   (symbol (lib_id "power:GND") (at 209.55 99.695 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a8a3fe10-df6a-4558-9bf8-19b1e14f65c9)
-    (property "Reference" "#PWR0114" (at 209.55 106.045 0)
+    (property "Reference" "#PWR0280" (at 209.55 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 209.55 104.775 0)
@@ -306,7 +306,7 @@
     (instances
       (project "PLC-CIM"
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/6b2772ce-0c35-4685-abd7-aa13c67cd0e6"
-          (reference "#PWR0114") (unit 1)
+          (reference "#PWR0280") (unit 1)
         )
       )
     )
@@ -315,7 +315,7 @@
   (symbol (lib_id "power:+3.3V") (at 167.64 83.185 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d42339a2-30f9-4412-85c9-7e71ad601290)
-    (property "Reference" "#PWR0113" (at 167.64 86.995 0)
+    (property "Reference" "#PWR0281" (at 167.64 86.995 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 167.64 80.01 0)
@@ -331,7 +331,7 @@
     (instances
       (project "PLC-CIM"
         (path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/6b2772ce-0c35-4685-abd7-aa13c67cd0e6"
-          (reference "#PWR0113") (unit 1)
+          (reference "#PWR0281") (unit 1)
         )
       )
     )
