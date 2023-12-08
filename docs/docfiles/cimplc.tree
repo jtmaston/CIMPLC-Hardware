@@ -7,4 +7,21 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Reference.md">
+        <toc-element topic="Specifications.md"/>
+        <toc-element topic="Hardware-design.md">
+            <toc-element topic="Output-Block.md"/>
+            <toc-element topic="Remote-I-O.md"/>
+            <toc-element topic="RS232.md"/>
+            <toc-element topic="CAN.md"/>
+            <toc-element topic="RS485.md"/>
+            <toc-element topic="EEPROM.md"/>
+            <toc-element topic="I-Block.md"/>
+        </toc-element>
+        <toc-element topic="Errata.md"/>
+    </toc-element>
+    <toc-element topic="v2.md">
+        <toc-element topic="Technical-Specifications-v2.md"/>
+        <toc-element topic="Hardware-design-v2.md"/>
+    </toc-element>
 </instance-profile>
