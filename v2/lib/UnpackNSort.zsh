@@ -1,74 +1,105 @@
 #!/bin/zsh
 
-mkdir -p Footprints
-mkdir -p Symbols
+echo "This script attempts to detect libraries, unpack them to their folders, and then add them to the .csv.
+This is kinda jury-rigged together, your mileage may vary
 
-(cd Downloads || exit
+[Pre-flight checks]"
+
+if [ ! -d ./dl ]; then
+    echo "Downloads directory does not exist! Create it?"
+    read answer
+
+    answer_lowercase=$(echo "$answer" | tr '[:upper:]' '[:lower:]')
+
+    if [ "$answer_lowercase" = "yes" ]; then
+        mkdir dl
+        echo "Created dir."
+    elif [ "$answer_lowercase" = "no" ]; then
+        echo "Exiting."
+    else
+        echo "Please enter either 'yes' or 'no'."
+    fi
+
+        exit
+else
+    echo "Found dir. Proceeding."
+fi
+
+
+
+if ls "dl"/*.zip >/dev/null 2>&1; then
+    echo "Found zip files inside the folder. Proceeding."
+else
+    echo "No zip files found in the folder."
+    exit
+fi
+
+echo "[Pre-flight checks completed]"
+
+
+mkdir -p mod
+mkdir -p sym
+mkdir -p 3d
+
+(cd dl || exit
 mkdir "temp"
 
 (
+echo "[Processing zip archives]"
 cd temp || exit
 unzip -oq "../*.zip"
 rm ./*.txt
 rm ./*.bin
-
 for dir in ./*
 do
   (
     cd "$dir/KiCad" || exit
-    cp -r ./*.dcm ../../../../Symbols
-    cp -r ./*.kicad_sym ../../../../Symbols
-    mkdir -p ../../../../Footprints/${dir:t:r}
-    cp -r ./*.kicad_mod ../../../../Footprints/${dir:t:r}
+    cp -r ./*.kicad_sym ../../../../sym
+    cp -r ./*.kicad_mod ../../../../mod
   )
   (
     cd "$dir/3D" || exit
-    cp -r ./*.stp ../../../../Footprints/${dir:t:r}
+    #cp -r ./*.stp ../../../../3d/${dir:t:r}.stp
+    cp -r ./*.stp ../../../../3d/
   )
 done
 )
 rm -r temp
 )
 
-template="temp"
-mkdir -p ./Footprints/temp
-for dir in ./Footprints/*
+echo "[Moving files to locations]"
+mkdir -p ./mod/temp
+for dir in ./mod/*
 do
   if  [[ "${dir:t:r}" != "temp" ]]
   then
-    mv "${dir}" "./Footprints/temp/${${dir:t}:s/,/_}"
-    mv ./Footprints/temp/* ./Footprints
+    mv "${dir}" "./mod/temp/${${dir:t}:s/,/_}"
+    mv ./mod/temp/* ./mod
   fi
 done
-rm -r ./Footprints/temp
 
-echo "Rebuild symbol and footprint tables? (y/n)"
-read -r choice
+echo "[Cleaning up]"
+rm -r ./mod/temp
 
-# shellcheck disable=SC2154
-if [[ $choice -eq "y" ]] || [[ $choice -eq "Y" ]]
-then
-  echo "Rebuilding symbol tables..."
-  echo "(sym_lib_table\n  (version 7)" > sym-lib-table
-  for sym in ./Symbols/*.kicad_sym
-  do
-    echo "  (lib (name \"${${sym:t}:s/,/_}\")(type \"KiCad\")(uri \"\${KIPRJMOD}/lib/Symbols/${${sym:t}:s/,/_}\")(options \"\")(descr \"\"))" >> sym-lib-table
-  done
-  echo ")" >> sym-lib-table
-  echo "Done rebuilding symbol table"
+exit
 
-  echo "Rebuilding footprint tables..."
-  echo "(fp_lib_table\n  (version 7)" > fp-lib-table
-  for sym in ./Footprints/*
-  do
-    echo "  (lib (name \"${${sym:t:r}:s/,/_}\")(type \"KiCad\")(uri \"\${KIPRJMOD}/lib/Footprints/${${sym:t:r}:s/,/_}\")(options \"\")(descr \"\"))" >> fp-lib-table
-  done
-  echo ")" >> fp-lib-table
-  echo "Done rebuilding footprint table"
+# I don't particularly like this part, so I'm avoiding it.
+
+echo "Delete archives?"
+read answer
+
+answer_lowercase=${$(echo "$answer" | tr '[:upper:]' '[:lower:]'):0:1}
+
+if [ "$answer_lowercase" = "y" ]; then
+    cd dl
+    #rm -r ./*
+elif [ "$answer_lowercase" = "n" ]; then
+
+else
+    echo "Please enter either 'yes' or 'no'."
 fi
 
-mv sym-lib-table ../
-mv fp-lib-table ../
+echo "[Done.]"
 
 
 

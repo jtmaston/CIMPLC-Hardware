@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ESP32-WROVER-E-N16R8
-D Module: IoT; Bluetooth Low Energy,WiFi; PCB; SMD; 18x31.4x3.3mm
-K
-F https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf
-$ENDCMP
-#
-#End Doc Library

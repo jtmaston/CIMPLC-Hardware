@@ -1,0 +1,375 @@
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'darwin'
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 8.0.1
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 3.0.2
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x15fe5dd30>
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with IC2 as a reference
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'IC2'
+Located on: ['Analog Stage 6']
+With filenames: ['Blocks/ASS.kicad_sch']
+With sheet_id:['Analog Stage 6']
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('IC24', ['Analog Stage 1']), ('IC22', ['Analog Stage 8']), ('IC21', ['Analog Stage 7']), ('IC20', ['Analog Stage 5']), ('IC5', ['Analog Stage 4']), ('IC4', ['Analog Stage 3']), ('IC3', ['Analog Stage 2']), ('IC2', ['Analog Stage 6'])]
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'Analog Stage 6', file:'Blocks/ASS.kicad_sch'
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['Analog Stage 1'], ['Analog Stage 2'], ['Analog Stage 3'], ['Analog Stage 4'], ['Analog Stage 5'], ['Analog Stage 7'], ['Analog Stage 8']]
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['Analog Stage 6']
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1327:Filtering list of tracks
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(2339, 96)
+04-08 02:41:19 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1900, 96)
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'Analog Stage 6', file:'Blocks/ASS.kicad_sch'
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['Analog Stage 1'], ['Analog Stage 2'], ['Analog Stage 3'], ['Analog Stage 4'], ['Analog Stage 5'], ['Analog Stage 7'], ['Analog Stage 8']]
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1503:Level selected: ['Analog Stage 6']
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1327:Filtering list of tracks
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:23 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 462:constructing a list of sheets suitable for replication on level:'Analog Stage 6', file:'Blocks/ASS.kicad_sch'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 499:suitable sheets are:[['Analog Stage 1'], ['Analog Stage 2'], ['Analog Stage 3'], ['Analog Stage 4'], ['Analog Stage 5'], ['Analog Stage 7'], ['Analog Stage 8']]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 278:Starting replication of sheets: [['Analog Stage 1'], ['Analog Stage 2'], ['Analog Stage 3'], ['Analog Stage 4'], ['Analog Stage 5'], ['Analog Stage 7'], ['Analog Stage 8']]
+on level: ['Analog Stage 6']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=True, locked footprints=False, group_only=True
+04-08 02:41:28 root 332:updating GUI message: 'Preparing for replication'
+04-08 02:41:28 root 337:updating GUI with: 0
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 348:Getting the list of source footprints
+04-08 02:41:28 root 337:updating GUI with: 0
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 358:Getting the list of all the remaining footprints
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 365:Getting source tracks
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1327:Filtering list of tracks
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1333:Track group: , src group:
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 369:Getting source zones
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 373:Getting source text items
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 377:Getting source drawing items
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Removing tracks and zones, before footprint placement
+04-08 02:41:28 root 332:updating GUI message: 'Removing zones and tracks'
+04-08 02:41:28 root 337:updating GUI with: 0
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:76988400, bottom:97188400, Left:401647000, Right:413597000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:53788400, bottom:73988400, Left:371747000, Right:383697000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:53788400, bottom:73988400, Left:386697000, Right:398647000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:53788400, bottom:73988400, Left:401647000, Right:413597000
+04-08 02:41:28 root 337:updating GUI with: 57
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:76988400, bottom:97188400, Left:371747000, Right:383697000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:76988400, bottom:97188400, Left:386697000, Right:398647000
+04-08 02:41:28 root 337:updating GUI with: 85
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:53788400, bottom:73988400, Left:416597000, Right:428547000
+04-08 02:41:28 root 332:updating GUI message: 'Replicating footprints'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 844:Replicating footprints
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['Analog Stage 1']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['Analog Stage 2']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['Analog Stage 3']
+04-08 02:41:28 root 337:updating GUI with: 34
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['Analog Stage 4']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['Analog Stage 5']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['Analog Stage 7']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 851:Replicating footprints on sheet ['Analog Stage 8']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 318:Removing tracks and zones, after footprint placement
+04-08 02:41:28 root 332:updating GUI message: 'Removing zones and tracks'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:73670400, bottom:85988400, Left:405665000, Right:413597000
+04-08 02:41:28 root 337:updating GUI with: 14
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:50470400, bottom:62788400, Left:375765000, Right:383697000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:50470400, bottom:62788400, Left:390715000, Right:398647000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:50470400, bottom:62788400, Left:405665000, Right:413597000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:73670400, bottom:85988400, Left:375765000, Right:383697000
+04-08 02:41:28 root 337:updating GUI with: 71
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:73670400, bottom:85988400, Left:390715000, Right:398647000
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1273:Remove bounding box top:50470400, bottom:62788400, Left:420615000, Right:428547000
+04-08 02:41:28 root 332:updating GUI message: 'Replicating tracks'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1005:Replicating tracks
+04-08 02:41:28 root 337:updating GUI with: 0
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1011:Replicating tracks on sheet ['Analog Stage 1']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 1', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 1', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 1', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 1', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A0'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A3'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A3'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A0'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A1'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A1'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A2'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A2'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 1'] :[('Net-(IC2-3IN+)', 'Net-(IC24-3IN+)'), ('/Analog Stage 6/L_SIG_1', '/A0'), ('/Analog Stage 6/L_SIG_4', '/A3'), ('/Analog Stage 6/L_SIG_3', '/A2'), ('GNDS', 'GNDS'), ('/D7', '/Analog Stage 1/H_SIG_4'), ('/D6', '/Analog Stage 1/H_SIG_3'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/A1'), ('/D4', '/Analog Stage 1/H_SIG_1'), ('Net-(IC2-1IN+)', 'Net-(IC24-1IN+)'), ('Net-(IC2-2IN+)', 'Net-(IC24-2IN+)'), ('/D5', '/Analog Stage 1/H_SIG_2'), ('Net-(IC2-4IN+)', 'Net-(IC24-4IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1011:Replicating tracks on sheet ['Analog Stage 2']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 2', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 2', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 2', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 2', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A4'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A7'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A7'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A4'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A5'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A5'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A6'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.62
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A6'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.62
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 2'] :[('/D6', '/Analog Stage 2/H_SIG_3'), ('Net-(IC2-2IN+)', 'Net-(IC3-2IN+)'), ('/D7', '/Analog Stage 2/H_SIG_4'), ('GNDS', 'GNDS'), ('Net-(IC2-4IN+)', 'Net-(IC3-4IN+)'), ('/Analog Stage 6/L_SIG_4', '/A7'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/A5'), ('/D5', '/Analog Stage 2/H_SIG_2'), ('Net-(IC2-1IN+)', 'Net-(IC3-1IN+)'), ('/Analog Stage 6/L_SIG_1', '/A4'), ('/D4', '/Analog Stage 2/H_SIG_1'), ('Net-(IC2-3IN+)', 'Net-(IC3-3IN+)'), ('/Analog Stage 6/L_SIG_3', '/A6')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1011:Replicating tracks on sheet ['Analog Stage 3']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 3', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 3', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 3', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 3', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A8'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A11'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A11'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A8'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A9'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A9'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A10'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A10'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 3'] :[('/D7', '/Analog Stage 3/H_SIG_4'), ('Net-(IC2-1IN+)', 'Net-(IC4-1IN+)'), ('GNDS', 'GNDS'), ('/D6', '/Analog Stage 3/H_SIG_3'), ('Net-(IC2-2IN+)', 'Net-(IC4-2IN+)'), ('/D4', '/Analog Stage 3/H_SIG_1'), ('/Analog Stage 6/L_SIG_2', '/A9'), ('/Analog Stage 6/L_SIG_1', '/A8'), ('/Analog Stage 6/L_SIG_3', '/A10'), ('+3.3V', '+3.3V'), ('/D5', '/Analog Stage 3/H_SIG_2'), ('/Analog Stage 6/L_SIG_4', '/A11'), ('Net-(IC2-3IN+)', 'Net-(IC4-3IN+)'), ('Net-(IC2-4IN+)', 'Net-(IC4-4IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1011:Replicating tracks on sheet ['Analog Stage 4']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 4', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 4', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 4', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 4', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A12'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.66
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A15'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A15'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A12'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.66
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A13'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A13'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A14'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A14'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 4'] :[('Net-(IC2-1IN+)', 'Net-(IC5-1IN+)'), ('/D4', '/Analog Stage 4/H_SIG_1'), ('Net-(IC2-2IN+)', 'Net-(IC5-2IN+)'), ('GNDS', 'GNDS'), ('/D6', '/Analog Stage 4/H_SIG_3'), ('Net-(IC2-3IN+)', 'Net-(IC5-3IN+)'), ('/D5', '/Analog Stage 4/H_SIG_2'), ('Net-(IC2-4IN+)', 'Net-(IC5-4IN+)'), ('/D7', '/Analog Stage 4/H_SIG_4'), ('/Analog Stage 6/L_SIG_1', '/A12'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/A13'), ('/Analog Stage 6/L_SIG_3', '/A14'), ('/Analog Stage 6/L_SIG_4', '/A15')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1011:Replicating tracks on sheet ['Analog Stage 5']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'D3'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'D2'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'D1'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'D0'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 5'] :[('/Analog Stage 6/L_SIG_1', '/Analog Stage 5/L_SIG_1'), ('/D7', '/D3'), ('Net-(IC2-1IN+)', 'Net-(IC20-1IN+)'), ('/D4', '/D0'), ('GNDS', 'GNDS'), ('Net-(IC2-4IN+)', 'Net-(IC20-4IN+)'), ('/D5', '/D1'), ('Net-(IC2-3IN+)', 'Net-(IC20-3IN+)'), ('/D6', '/D2'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_4', '/Analog Stage 5/L_SIG_4'), ('/Analog Stage 6/L_SIG_3', '/Analog Stage 5/L_SIG_3'), ('/Analog Stage 6/L_SIG_2', '/Analog Stage 5/L_SIG_2'), ('Net-(IC2-2IN+)', 'Net-(IC20-2IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1011:Replicating tracks on sheet ['Analog Stage 7']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'D11'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'D10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'D9'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'D8'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 7'] :[('/D6', '/D10'), ('GNDS', 'GNDS'), ('Net-(IC2-2IN+)', 'Net-(IC21-2IN+)'), ('Net-(IC2-1IN+)', 'Net-(IC21-1IN+)'), ('/Analog Stage 6/L_SIG_1', '/Analog Stage 7/L_SIG_1'), ('Net-(IC2-4IN+)', 'Net-(IC21-4IN+)'), ('/Analog Stage 6/L_SIG_4', '/Analog Stage 7/L_SIG_4'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/Analog Stage 7/L_SIG_2'), ('/D7', '/D11'), ('/Analog Stage 6/L_SIG_3', '/Analog Stage 7/L_SIG_3'), ('/D4', '/D8'), ('/D5', '/D9'), ('Net-(IC2-3IN+)', 'Net-(IC21-3IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1011:Replicating tracks on sheet ['Analog Stage 8']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'D15'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'D14'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'D13'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'D12'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 8'] :[('GNDS', 'GNDS'), ('Net-(IC2-3IN+)', 'Net-(IC22-3IN+)'), ('Net-(IC2-4IN+)', 'Net-(IC22-4IN+)'), ('/D5', '/D13'), ('/D7', '/D15'), ('/Analog Stage 6/L_SIG_1', '/Analog Stage 8/L_SIG_1'), ('Net-(IC2-1IN+)', 'Net-(IC22-1IN+)'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/Analog Stage 8/L_SIG_2'), ('Net-(IC2-2IN+)', 'Net-(IC22-2IN+)'), ('/Analog Stage 6/L_SIG_3', '/Analog Stage 8/L_SIG_3'), ('/D6', '/D14'), ('/D4', '/D12'), ('/Analog Stage 6/L_SIG_4', '/Analog Stage 8/L_SIG_4')]
+04-08 02:41:28 root 332:updating GUI message: 'Replicating zones'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1075:Replicating zones
+04-08 02:41:28 root 337:updating GUI with: 0
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating zones on sheet ['Analog Stage 1']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 1', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 1', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 1', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 1', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A0'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A3'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A3'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A0'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A1'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A1'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A2'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A2'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 1'] :[('Net-(IC2-3IN+)', 'Net-(IC24-3IN+)'), ('/Analog Stage 6/L_SIG_1', '/A0'), ('/Analog Stage 6/L_SIG_4', '/A3'), ('/Analog Stage 6/L_SIG_3', '/A2'), ('GNDS', 'GNDS'), ('/D7', '/Analog Stage 1/H_SIG_4'), ('/D6', '/Analog Stage 1/H_SIG_3'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/A1'), ('/D4', '/Analog Stage 1/H_SIG_1'), ('Net-(IC2-1IN+)', 'Net-(IC24-1IN+)'), ('Net-(IC2-2IN+)', 'Net-(IC24-2IN+)'), ('/D5', '/Analog Stage 1/H_SIG_2'), ('Net-(IC2-4IN+)', 'Net-(IC24-4IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating zones on sheet ['Analog Stage 2']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 2', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 2', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 2', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 2', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A4'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A7'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A7'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A4'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A5'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A5'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A6'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.62
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A6'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.62
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 2'] :[('/D6', '/Analog Stage 2/H_SIG_3'), ('Net-(IC2-2IN+)', 'Net-(IC3-2IN+)'), ('/D7', '/Analog Stage 2/H_SIG_4'), ('GNDS', 'GNDS'), ('Net-(IC2-4IN+)', 'Net-(IC3-4IN+)'), ('/Analog Stage 6/L_SIG_4', '/A7'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/A5'), ('/D5', '/Analog Stage 2/H_SIG_2'), ('Net-(IC2-1IN+)', 'Net-(IC3-1IN+)'), ('/Analog Stage 6/L_SIG_1', '/A4'), ('/D4', '/Analog Stage 2/H_SIG_1'), ('Net-(IC2-3IN+)', 'Net-(IC3-3IN+)'), ('/Analog Stage 6/L_SIG_3', '/A6')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating zones on sheet ['Analog Stage 3']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 3', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 3', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 3', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 3', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A8'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A11'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A11'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A8'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A9'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A9'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A10'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A10'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 3'] :[('/D7', '/Analog Stage 3/H_SIG_4'), ('Net-(IC2-1IN+)', 'Net-(IC4-1IN+)'), ('GNDS', 'GNDS'), ('/D6', '/Analog Stage 3/H_SIG_3'), ('Net-(IC2-2IN+)', 'Net-(IC4-2IN+)'), ('/D4', '/Analog Stage 3/H_SIG_1'), ('/Analog Stage 6/L_SIG_2', '/A9'), ('/Analog Stage 6/L_SIG_1', '/A8'), ('/Analog Stage 6/L_SIG_3', '/A10'), ('+3.3V', '+3.3V'), ('/D5', '/Analog Stage 3/H_SIG_2'), ('/Analog Stage 6/L_SIG_4', '/A11'), ('Net-(IC2-3IN+)', 'Net-(IC4-3IN+)'), ('Net-(IC2-4IN+)', 'Net-(IC4-4IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating zones on sheet ['Analog Stage 4']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'Analog Stage 4', 'H_SIG_1'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'Analog Stage 4', 'H_SIG_4'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'Analog Stage 4', 'H_SIG_3'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'Analog Stage 4', 'H_SIG_2'], with src_net_depth=2, dst_net_depth=3, src_fp_depth=1, dst_fp_depth=1, match level 0.50
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A12'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.66
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A15'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_4'] and dst net: ['', 'A15'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_1'] and dst net: ['', 'A12'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.66
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A13'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_2'] and dst net: ['', 'A13'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A14'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'Analog Stage 6', 'L_SIG_3'] and dst net: ['', 'A14'], with src_net_depth=3, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.56
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 4'] :[('Net-(IC2-1IN+)', 'Net-(IC5-1IN+)'), ('/D4', '/Analog Stage 4/H_SIG_1'), ('Net-(IC2-2IN+)', 'Net-(IC5-2IN+)'), ('GNDS', 'GNDS'), ('/D6', '/Analog Stage 4/H_SIG_3'), ('Net-(IC2-3IN+)', 'Net-(IC5-3IN+)'), ('/D5', '/Analog Stage 4/H_SIG_2'), ('Net-(IC2-4IN+)', 'Net-(IC5-4IN+)'), ('/D7', '/Analog Stage 4/H_SIG_4'), ('/Analog Stage 6/L_SIG_1', '/A12'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/A13'), ('/Analog Stage 6/L_SIG_3', '/A14'), ('/Analog Stage 6/L_SIG_4', '/A15')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating zones on sheet ['Analog Stage 5']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'D3'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'D2'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'D1'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'D0'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 5'] :[('/Analog Stage 6/L_SIG_1', '/Analog Stage 5/L_SIG_1'), ('/D7', '/D3'), ('Net-(IC2-1IN+)', 'Net-(IC20-1IN+)'), ('/D4', '/D0'), ('GNDS', 'GNDS'), ('Net-(IC2-4IN+)', 'Net-(IC20-4IN+)'), ('/D5', '/D1'), ('Net-(IC2-3IN+)', 'Net-(IC20-3IN+)'), ('/D6', '/D2'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_4', '/Analog Stage 5/L_SIG_4'), ('/Analog Stage 6/L_SIG_3', '/Analog Stage 5/L_SIG_3'), ('/Analog Stage 6/L_SIG_2', '/Analog Stage 5/L_SIG_2'), ('Net-(IC2-2IN+)', 'Net-(IC20-2IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating zones on sheet ['Analog Stage 7']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'D11'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'D10'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'D9'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'D8'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.75
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 7'] :[('/D6', '/D10'), ('GNDS', 'GNDS'), ('Net-(IC2-2IN+)', 'Net-(IC21-2IN+)'), ('Net-(IC2-1IN+)', 'Net-(IC21-1IN+)'), ('/Analog Stage 6/L_SIG_1', '/Analog Stage 7/L_SIG_1'), ('Net-(IC2-4IN+)', 'Net-(IC21-4IN+)'), ('/Analog Stage 6/L_SIG_4', '/Analog Stage 7/L_SIG_4'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/Analog Stage 7/L_SIG_2'), ('/D7', '/D11'), ('/Analog Stage 6/L_SIG_3', '/Analog Stage 7/L_SIG_3'), ('/D4', '/D8'), ('/D5', '/D9'), ('Net-(IC2-3IN+)', 'Net-(IC21-3IN+)')]
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1082:Replicating zones on sheet ['Analog Stage 8']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D7'] and dst net: ['', 'D15'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D6'] and dst net: ['', 'D14'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D5'] and dst net: ['', 'D13'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 788:Significant difference between src net: ['', 'D4'] and dst net: ['', 'D12'], with src_net_depth=2, dst_net_depth=2, src_fp_depth=1, dst_fp_depth=1, match level 0.70
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 804:Net pairs for sheet ['Analog Stage 8'] :[('GNDS', 'GNDS'), ('Net-(IC2-3IN+)', 'Net-(IC22-3IN+)'), ('Net-(IC2-4IN+)', 'Net-(IC22-4IN+)'), ('/D5', '/D13'), ('/D7', '/D15'), ('/Analog Stage 6/L_SIG_1', '/Analog Stage 8/L_SIG_1'), ('Net-(IC2-1IN+)', 'Net-(IC22-1IN+)'), ('+3.3V', '+3.3V'), ('/Analog Stage 6/L_SIG_2', '/Analog Stage 8/L_SIG_2'), ('Net-(IC2-2IN+)', 'Net-(IC22-2IN+)'), ('/Analog Stage 6/L_SIG_3', '/Analog Stage 8/L_SIG_3'), ('/D6', '/D14'), ('/D4', '/D12'), ('/Analog Stage 6/L_SIG_4', '/Analog Stage 8/L_SIG_4')]
+04-08 02:41:28 root 332:updating GUI message: 'Replicating text'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1164:Replicating text
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['Analog Stage 1']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['Analog Stage 2']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['Analog Stage 3']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['Analog Stage 4']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['Analog Stage 5']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['Analog Stage 7']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1171:Replicating text on sheet ['Analog Stage 8']
+04-08 02:41:28 root 332:updating GUI message: 'Replicating drawings'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1215:Replicating drawings
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1221:Replicating drawings on sheet ['Analog Stage 1']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1221:Replicating drawings on sheet ['Analog Stage 2']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1221:Replicating drawings on sheet ['Analog Stage 3']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1221:Replicating drawings on sheet ['Analog Stage 4']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1221:Replicating drawings on sheet ['Analog Stage 5']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1221:Replicating drawings on sheet ['Analog Stage 7']
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1221:Replicating drawings on sheet ['Analog Stage 8']
+04-08 02:41:28 root 332:updating GUI message: 'Removing duplicates'
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 259:Letting the user know there are some issues with replicated design
+04-08 02:41:28 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 263:Looks like the design has an exotic connectivity that the plugin might not handle properly
+ Make sure that you check the connectivity around:
+Footprint R24, pad 1
+Footprint IC24, pad 1
+Footprint IC3, pad 13
+Footprint IC3, pad 8
+Footprint IC3, pad 6
+Footprint R25, pad 1
+Footprint R19, pad 1
+Footprint IC5, pad 13
+Footprint IC5, pad 8
+Footprint IC24, pad 7
+Footprint IC4, pad 9
+Footprint IC24, pad 2
+Footprint IC5, pad 6
+Footprint R49, pad 1
+Footprint R40, pad 1
+Footprint R16, pad 1
+Footprint IC4, pad 14
+Footprint IC3, pad 9
+Footprint R14, pad 1
+Footprint IC5, pad 9
+Footprint R52, pad 1
+Footprint IC3, pad 14
+Footprint R30, pad 1
+Footprint IC4, pad 8
+Footprint R55, pad 1
+Footprint IC24, pad 13
+Footprint IC24, pad 8
+Footprint R32, pad 1
+Footprint R38, pad 1
+Footprint IC24, pad 6
+Footprint R9, pad 1
+Footprint IC5, pad 14
+Footprint R62, pad 1
+Footprint IC4, pad 1
+Footprint R5, pad 1
+Footprint R54, pad 1
+Footprint R27, pad 1
+Footprint R47, pad 1
+Footprint R7, pad 1
+Footprint R63, pad 1
+Footprint R33, pad 1
+Footprint IC24, pad 9
+Footprint IC3, pad 1
+Footprint IC4, pad 7
+Footprint IC4, pad 2
+Footprint IC5, pad 1
+Footprint IC24, pad 14
+Footprint R11, pad 1
+Footprint R3, pad 1
+Footprint IC3, pad 7
+Footprint IC3, pad 2
+Footprint R60, pad 1
+Footprint R35, pad 1
+Footprint R17, pad 1
+Footprint R22, pad 1
+Footprint IC5, pad 7
+Footprint IC4, pad 13
+Footprint IC5, pad 2
+Footprint R57, pad 1
+Footprint IC4, pad 6
+

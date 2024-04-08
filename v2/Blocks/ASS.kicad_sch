@@ -1,0 +1,3566 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "498b77cc-648b-4ef0-9f77-8838c59288e1")
+	(paper "A5")
+	(lib_symbols
+		(symbol "ERJ-P03F3242V:ERJ-P03F3242V"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 4.826 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "32.4 kΩ"
+				(at 4.826 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "RESC1609X55N"
+				(at 13.97 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+				(at 13.97 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Thick Film Resistors - SMD 0603 32.4Kohms 0.2W 1% AEC-Q200"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.55"
+				(at 13.97 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "667-ERJ-P03F3242V"
+				(at 13.97 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-P03F3242V?qs=18kBAoNi3c8mR1RN8vTo%2Fg%3D%3D"
+				(at 13.97 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Panasonic"
+				(at 13.97 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "ERJ-P03F3242V"
+				(at 13.97 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "ERJ-P03F3242V_1_1"
+				(rectangle
+					(start 5.08 1.27)
+					(end 12.7 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "ERJ-P03F4021V:ERJ-P03F4021V"
+			(pin_names hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 5.08 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "4.02 kΩ"
+				(at 5.08 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "RESC1609X55N"
+				(at 13.97 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+				(at 13.97 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Anti-Surge Thick Film Chip Resistor, 0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.55"
+				(at 13.97 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" ""
+				(at 13.97 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" ""
+				(at 13.97 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Panasonic"
+				(at 13.97 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "ERJ-P03F4021V"
+				(at 13.97 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "ERJ-P03F4021V_1_1"
+				(rectangle
+					(start 5.08 1.27)
+					(end 12.7 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "LM2902KPWR:LM2902KPWR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "IC"
+				(at 29.21 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "LM2902KPWR"
+				(at 29.21 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "SOP65P640X120-14N"
+				(at 29.21 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/lm2902k"
+				(at 29.21 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Texas Instruments LM2902KPWR, Quad Op Amp, 1.2MHz, 5  24 V, 14-Pin TSSOP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.2"
+				(at 29.21 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "595-LM2902KPWR"
+				(at 29.21 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2902KPWR?qs=VBduBm9rCJS2177%2FTaHdGg%3D%3D"
+				(at 29.21 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 29.21 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "LM2902KPWR"
+				(at 29.21 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "LM2902KPWR_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 27.94 -17.78)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -10.16 180)
+					(length 5.08)
+					(name "3IN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -7.62 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -5.08 180)
+					(length 5.08)
+					(name "4IN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -2.54 180)
+					(length 5.08)
+					(name "4IN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 0 180)
+					(length 5.08)
+					(name "4OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "1IN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "1IN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -7.62 0)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -10.16 0)
+					(length 5.08)
+					(name "2IN+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -12.7 0)
+					(length 5.08)
+					(name "2IN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -15.24 0)
+					(length 5.08)
+					(name "2OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -15.24 180)
+					(length 5.08)
+					(name "3OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -12.7 180)
+					(length 5.08)
+					(name "3IN-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:+3.3V"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3.3V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3.3V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3.3V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GNDS"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GNDS"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GNDS_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GNDS_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 124.46 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "22967f09-e335-4d8c-993b-38ed1d5a2ee1")
+	)
+	(junction
+		(at 138.43 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "399f6576-1dca-4815-8268-397fb165249f")
+	)
+	(junction
+		(at 158.75 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9457fa58-8606-44d5-a8d6-d818ff0acd05")
+	)
+	(junction
+		(at 81.28 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4781cf4-9e68-4afa-8a5b-c36054a72198")
+	)
+	(junction
+		(at 67.31 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "abaaf29c-d6af-4018-9b59-1ecff193c043")
+	)
+	(junction
+		(at 81.28 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3dc4dcc-e904-4984-ad69-c61a4e61179e")
+	)
+	(junction
+		(at 124.46 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d47eafcb-3a55-4c16-af8f-5ecb1130169b")
+	)
+	(junction
+		(at 46.99 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6a02153-d72d-4830-b5bc-041ca5337c22")
+	)
+	(wire
+		(pts
+			(xy 154.94 76.2) (xy 154.94 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00467f29-4d2f-4fb2-8454-3419b51debbb")
+	)
+	(wire
+		(pts
+			(xy 82.55 58.42) (xy 81.28 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c563626-dec4-4467-83e3-91ee50de3d9c")
+	)
+	(wire
+		(pts
+			(xy 124.46 41.91) (xy 124.46 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10e3da2b-f95f-4197-9ff5-ca8caccd4122")
+	)
+	(wire
+		(pts
+			(xy 162.56 58.42) (xy 158.75 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "227ef25f-2cdc-4b46-8019-1e7c4711b47b")
+	)
+	(wire
+		(pts
+			(xy 124.46 39.37) (xy 119.38 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31e02faa-0b31-49c3-88a9-731fcec42fa8")
+	)
+	(wire
+		(pts
+			(xy 63.5 77.47) (xy 63.5 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36c6a0de-229a-4a98-8d50-64f809c20f68")
+	)
+	(wire
+		(pts
+			(xy 81.28 39.37) (xy 86.36 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38eb9395-233c-4acd-b335-e7a50a095bed")
+	)
+	(wire
+		(pts
+			(xy 158.75 58.42) (xy 158.75 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cb19d58-b862-433b-8892-a523a67da248")
+	)
+	(wire
+		(pts
+			(xy 43.18 58.42) (xy 46.99 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4935c5b2-3e05-4bd7-9956-1ae16ef7afe7")
+	)
+	(wire
+		(pts
+			(xy 67.31 58.42) (xy 71.12 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49ac5c77-bb32-4592-b1bc-cef7ac52e7d6")
+	)
+	(wire
+		(pts
+			(xy 142.24 58.42) (xy 138.43 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50325644-e5c4-41f4-8358-4f87179144de")
+	)
+	(wire
+		(pts
+			(xy 162.56 77.47) (xy 162.56 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50b574b6-1f11-41c1-8d08-f5bbdfcb6fa1")
+	)
+	(wire
+		(pts
+			(xy 60.96 46.99) (xy 86.36 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6104a6d0-b35d-47ea-a3ac-f11f8d9cf927")
+	)
+	(wire
+		(pts
+			(xy 81.28 52.07) (xy 81.28 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62fda828-5156-4937-8bff-db050b38edab")
+	)
+	(wire
+		(pts
+			(xy 148.59 77.47) (xy 142.24 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6eb7c3e4-8f5e-4fdc-b2a7-d4ee45b1005a")
+	)
+	(wire
+		(pts
+			(xy 138.43 58.42) (xy 134.62 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71e4bb2f-94f7-48c1-ac3a-19b238e7a37a")
+	)
+	(wire
+		(pts
+			(xy 86.36 52.07) (xy 81.28 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "795a7424-0e87-4015-9c96-82492ae1fc32")
+	)
+	(wire
+		(pts
+			(xy 168.91 72.39) (xy 168.91 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7df002b3-b5d8-4f09-abe2-481d5f7ffcbc")
+	)
+	(wire
+		(pts
+			(xy 119.38 41.91) (xy 124.46 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fa0edd5-ae98-453f-ac91-b2591f3db72c")
+	)
+	(wire
+		(pts
+			(xy 148.59 46.99) (xy 148.59 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b41a80d-37f8-4dd8-9a66-42b30943ed99")
+	)
+	(wire
+		(pts
+			(xy 81.28 41.91) (xy 81.28 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cb3091a-2b96-4e49-8ca9-b00a23586436")
+	)
+	(wire
+		(pts
+			(xy 86.36 41.91) (xy 81.28 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d549e38-9597-441d-9a84-df6e00ae7c3a")
+	)
+	(wire
+		(pts
+			(xy 57.15 77.47) (xy 63.5 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f30d549-e4b2-475e-abf4-c6d4ad633861")
+	)
+	(wire
+		(pts
+			(xy 158.75 44.45) (xy 119.38 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9159a2fd-8f39-42b1-ae86-320805bcda8f")
+	)
+	(wire
+		(pts
+			(xy 148.59 72.39) (xy 148.59 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9584a943-babd-4e76-ae66-b7120fb0e073")
+	)
+	(wire
+		(pts
+			(xy 168.91 77.47) (xy 162.56 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9833a716-c2d2-4203-9953-b28d573de92f")
+	)
+	(wire
+		(pts
+			(xy 67.31 58.42) (xy 67.31 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a68b0d0-8f82-42a9-a668-3574e934f41b")
+	)
+	(wire
+		(pts
+			(xy 123.19 35.56) (xy 124.46 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c1d1fbb-e879-4bac-a3ad-0741526faa2a")
+	)
+	(wire
+		(pts
+			(xy 158.75 58.42) (xy 154.94 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab3b4060-8066-4e26-966f-b3074eda368f")
+	)
+	(wire
+		(pts
+			(xy 46.99 58.42) (xy 50.8 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b059ecd6-3eea-4bce-962c-118978ba12f0")
+	)
+	(wire
+		(pts
+			(xy 81.28 54.61) (xy 86.36 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6cb2c3c-bb73-42f9-bea9-481d938bc1f1")
+	)
+	(wire
+		(pts
+			(xy 50.8 76.2) (xy 50.8 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b706febb-f8d2-4741-a1b2-922b84c303c4")
+	)
+	(wire
+		(pts
+			(xy 46.99 44.45) (xy 86.36 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8a869b8-91f2-4ab8-a379-e1715b5d3496")
+	)
+	(wire
+		(pts
+			(xy 124.46 35.56) (xy 124.46 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd188d8d-179e-47b4-9b62-c1e22c74af46")
+	)
+	(wire
+		(pts
+			(xy 134.62 76.2) (xy 134.62 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6f65ad6-c63d-46d7-a9d4-9810f988ce08")
+	)
+	(wire
+		(pts
+			(xy 123.19 58.42) (xy 124.46 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf59eb67-de5c-4056-8dc0-18b49e05b69b")
+	)
+	(wire
+		(pts
+			(xy 138.43 58.42) (xy 138.43 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d1bf6687-d5b8-40a1-9693-4363a4be253c")
+	)
+	(wire
+		(pts
+			(xy 63.5 58.42) (xy 67.31 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d32fa464-eaf8-4b7f-a735-8d8487132889")
+	)
+	(wire
+		(pts
+			(xy 71.12 76.2) (xy 71.12 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3a95eda-b45c-484e-829c-3ff0733821b0")
+	)
+	(wire
+		(pts
+			(xy 55.88 54.61) (xy 60.96 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d65a4a69-196b-49ab-a485-f1467e8a03f5")
+	)
+	(wire
+		(pts
+			(xy 124.46 52.07) (xy 124.46 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dca43450-24fb-41ca-93ec-ac0730c90b52")
+	)
+	(wire
+		(pts
+			(xy 46.99 58.42) (xy 46.99 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e13d022c-4abe-4f40-acbc-bd081fe193ae")
+	)
+	(wire
+		(pts
+			(xy 138.43 49.53) (xy 119.38 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9178cfe-49ff-431c-b518-5fb19a187f28")
+	)
+	(wire
+		(pts
+			(xy 142.24 77.47) (xy 142.24 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e933a0c6-9b79-4434-8d8e-de8f899dfb65")
+	)
+	(wire
+		(pts
+			(xy 36.83 77.47) (xy 43.18 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea432031-5658-47cb-a3e3-43e86fecfe0c")
+	)
+	(wire
+		(pts
+			(xy 36.83 72.39) (xy 36.83 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea51981a-88da-477c-89a4-37f9142af38e")
+	)
+	(wire
+		(pts
+			(xy 119.38 46.99) (xy 148.59 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efa257d7-4413-4e85-af68-f9ca0541b0af")
+	)
+	(wire
+		(pts
+			(xy 124.46 54.61) (xy 119.38 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f00fc7d4-489b-44ee-ae06-65def0cc0610")
+	)
+	(wire
+		(pts
+			(xy 43.18 77.47) (xy 43.18 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f107f8f9-41b0-4a50-b969-3cd32b30df08")
+	)
+	(wire
+		(pts
+			(xy 57.15 72.39) (xy 57.15 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3866e9c-6b47-47e2-8d6a-066a5f9bc365")
+	)
+	(wire
+		(pts
+			(xy 81.28 35.56) (xy 81.28 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f48c2495-9b8c-44f2-98f3-5e0b87bfb38b")
+	)
+	(wire
+		(pts
+			(xy 55.88 52.07) (xy 55.88 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8098f7e-8a0e-4565-94e2-abbc24468c05")
+	)
+	(wire
+		(pts
+			(xy 82.55 35.56) (xy 81.28 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8878035-4d87-4fbf-8f52-3168a589cc6b")
+	)
+	(wire
+		(pts
+			(xy 81.28 58.42) (xy 81.28 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8b5143c-4a51-4677-b14f-76f789807a1f")
+	)
+	(wire
+		(pts
+			(xy 124.46 58.42) (xy 124.46 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd8a2680-d3af-40a1-8e5d-b3f5d03853c4")
+	)
+	(wire
+		(pts
+			(xy 60.96 54.61) (xy 60.96 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fde0fb62-a95a-483c-9b8b-3901a10ace41")
+	)
+	(wire
+		(pts
+			(xy 119.38 52.07) (xy 124.46 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe10d367-49f7-450b-bff1-792ba869a45d")
+	)
+	(wire
+		(pts
+			(xy 67.31 49.53) (xy 86.36 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fee6afcd-bc30-4c4c-a8ff-25b5b55cfd10")
+	)
+	(hierarchical_label "L_SIG_2"
+		(shape input)
+		(at 82.55 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "15af357f-1517-45ce-a16a-afc2e332e5a5")
+	)
+	(hierarchical_label "H_SIG_3"
+		(shape input)
+		(at 148.59 72.39 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "48788193-6069-4683-b828-517d168d3e7a")
+	)
+	(hierarchical_label "H_SIG_4"
+		(shape input)
+		(at 168.91 72.39 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "51565346-75f1-4feb-afa2-c3931e271e83")
+	)
+	(hierarchical_label "L_SIG_1"
+		(shape input)
+		(at 82.55 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "814ef093-1983-4a8d-9769-03d3a6fa29ea")
+	)
+	(hierarchical_label "L_SIG_3"
+		(shape input)
+		(at 123.19 58.42 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0ef925c-4958-4617-8572-a8a991499eb0")
+	)
+	(hierarchical_label "H_SIG_2"
+		(shape input)
+		(at 57.15 72.39 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ba65abec-afb3-4513-874d-89256a775074")
+	)
+	(hierarchical_label "H_SIG_1"
+		(shape input)
+		(at 36.83 72.39 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eb4862eb-5abc-4b33-b4a9-903bc229d876")
+	)
+	(hierarchical_label "L_SIG_4"
+		(shape input)
+		(at 123.19 35.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ec8a6f37-2e14-472d-80bb-b030f4a567fe")
+	)
+	(symbol
+		(lib_id "power:GNDS")
+		(at 71.12 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0bdf83e6-856a-4f75-8898-be45993c672e")
+		(property "Reference" "#PWR05"
+			(at 71.12 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDS"
+			(at 71.12 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
+			(at 71.12 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eacd04b4-5e53-4563-be25-5e58aa7ea510")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "#PWR05")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "#PWR012")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "#PWR018")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "#PWR024")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "#PWR057")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "#PWR08")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "#PWR066")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 55.88 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15bffcc2-7caf-461c-a1f9-aeb64350bea3")
+		(property "Reference" "#PWR011"
+			(at 55.88 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 55.88 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 55.88 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 55.88 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b86929e-3799-4119-bd27-234f1b1bb2cf")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "#PWR011")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "#PWR017")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "#PWR056")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "#PWR06")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "#PWR065")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "#PWR071")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F3242V:ERJ-P03F3242V")
+		(at 162.56 76.2 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1ecc0424-f137-48eb-bf9b-722f0d64b624")
+		(property "Reference" "R5"
+			(at 157.48 65.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "32.4 kΩ"
+			(at 160.274 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 66.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at -33.63 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Thick Film Resistors - SMD 0603 32.4Kohms 0.2W 1% AEC-Q200"
+			(at 162.56 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at -233.63 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F3242V"
+			(at -333.63 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-P03F3242V?qs=18kBAoNi3c8mR1RN8vTo%2Fg%3D%3D"
+			(at -433.63 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at -533.63 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F3242V"
+			(at -633.63 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d9f952e-a666-4afc-9002-2dd7c9ed2371")
+		)
+		(pin "2"
+			(uuid "b9ca5a25-9f57-4adb-acc7-2a929d08a47d")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R5")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R16")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R24")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R32")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R40")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R46")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R54")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDS")
+		(at 148.59 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4c12de0e-a591-4b13-9c1c-0f46d784677a")
+		(property "Reference" "#PWR014"
+			(at 148.59 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDS"
+			(at 148.59 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
+			(at 148.59 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "99defd3d-3898-4435-84a7-217b4a871a41")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "#PWR014")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "#PWR020")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "#PWR059")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "#PWR062")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "#PWR068")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "#PWR074")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F3242V:ERJ-P03F3242V")
+		(at 43.18 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5085f150-01e2-488e-9833-4ebc1a26ab90")
+		(property "Reference" "R9"
+			(at 38.608 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "32.4 kΩ"
+			(at 39.37 71.374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 139.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at 239.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Thick Film Resistors - SMD 0603 32.4Kohms 0.2W 1% AEC-Q200"
+			(at 43.18 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at 439.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F3242V"
+			(at 539.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-P03F3242V?qs=18kBAoNi3c8mR1RN8vTo%2Fg%3D%3D"
+			(at 639.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 739.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F3242V"
+			(at 839.37 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ac9b12d-9041-4c00-89cb-5dcb8a5cc2ae")
+		)
+		(pin "2"
+			(uuid "f4e037e9-9032-49cb-a689-7f43dba9cba8")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R9")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R17")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R63")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R33")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R1")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R47")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R55")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDS")
+		(at 50.8 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5a7ec21c-2553-492c-bfbd-ec767c68cf05")
+		(property "Reference" "#PWR010"
+			(at 50.8 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDS"
+			(at 50.8 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 50.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
+			(at 50.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "93ec6f31-3a32-4218-b191-db2aab86f527")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "#PWR010")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "#PWR016")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "#PWR0101")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "#PWR055")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "#PWR04")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "#PWR064")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "#PWR070")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDS")
+		(at 154.94 77.47 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8605f652-f2e6-45bf-91de-eefdd50ac37f")
+		(property "Reference" "#PWR07"
+			(at 154.94 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDS"
+			(at 154.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
+			(at 154.94 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3b790fa0-f062-44b7-9c3e-5ff1e348d51d")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "#PWR07")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "#PWR015")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "#PWR021")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "#PWR027")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "#PWR060")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "#PWR063")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "#PWR069")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F3242V:ERJ-P03F3242V")
+		(at 63.5 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8a3b71c1-1582-4bd0-87ba-9430122e8848")
+		(property "Reference" "R3"
+			(at 58.928 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "32.4 kΩ"
+			(at 59.69 71.374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 159.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at 259.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Thick Film Resistors - SMD 0603 32.4Kohms 0.2W 1% AEC-Q200"
+			(at 63.5 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at 459.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F3242V"
+			(at 559.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-P03F3242V?qs=18kBAoNi3c8mR1RN8vTo%2Fg%3D%3D"
+			(at 659.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 759.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F3242V"
+			(at 859.69 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "03fd71fc-16d7-47bd-80a0-56d20b1fd5d0")
+		)
+		(pin "2"
+			(uuid "9d72d94c-581d-44e4-9784-7b0dc0fdc0fe")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R3")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R11")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R19")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R27")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R35")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R41")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R49")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F4021V:ERJ-P03F4021V")
+		(at 134.62 76.2 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9b4a96f2-a151-40de-9157-f34a9ff5e87d")
+		(property "Reference" "R8"
+			(at 129.54 65.024 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.02 kΩ"
+			(at 132.588 70.612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 38.43 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at -61.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Anti-Surge Thick Film Chip Resistor, 0603"
+			(at 134.62 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at -261.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW12064K02FKEAH"
+			(at -361.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW12064K02FKEAHP?qs=ua4hIysp8dKH7mznMDiMrw%3D%3D"
+			(at -461.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at -561.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F4021V"
+			(at -661.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "01ebd65a-78d2-4d4c-ae6b-59aca12cabb0")
+		)
+		(pin "1"
+			(uuid "f7c90a0c-e957-4512-9f95-5a8c68945cc4")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R8")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R13")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R21")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R29")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R37")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R43")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R51")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F4021V:ERJ-P03F4021V")
+		(at 154.94 76.2 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3d81151-7dd4-465d-93bf-2195de67da2d")
+		(property "Reference" "R6"
+			(at 150.622 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.02 kΩ"
+			(at 153.162 70.612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 58.75 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at -41.25 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Anti-Surge Thick Film Chip Resistor, 0603"
+			(at 154.94 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at -241.25 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW12064K02FKEAH"
+			(at -341.25 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW12064K02FKEAHP?qs=ua4hIysp8dKH7mznMDiMrw%3D%3D"
+			(at -441.25 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at -541.25 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F4021V"
+			(at -641.25 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6889f333-7469-40bf-a706-068aab902436")
+		)
+		(pin "1"
+			(uuid "ea2a4834-9b70-4d28-8524-af50ceaef923")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R6")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R15")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R23")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R31")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R39")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R45")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R53")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F4021V:ERJ-P03F4021V")
+		(at 50.8 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b30bdfce-c63a-493f-a91b-43d57ca14299")
+		(property "Reference" "R10"
+			(at 46.482 65.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.02 kΩ"
+			(at 46.99 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 146.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at 246.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Anti-Surge Thick Film Chip Resistor, 0603"
+			(at 50.8 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at 446.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW12064K02FKEAH"
+			(at 546.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW12064K02FKEAHP?qs=ua4hIysp8dKH7mznMDiMrw%3D%3D"
+			(at 646.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 746.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F4021V"
+			(at 846.99 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "58cfdfcf-eeb9-434f-b1f8-97e84a2888de")
+		)
+		(pin "1"
+			(uuid "51fc2185-015b-474b-bdd7-bb72de8634b7")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R10")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R18")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R64")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R34")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R2")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R48")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R56")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F3242V:ERJ-P03F3242V")
+		(at 142.24 76.2 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b9439c79-a4ce-4646-aa9c-71035647bced")
+		(property "Reference" "R7"
+			(at 137.668 65.024 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "32.4 kΩ"
+			(at 140.462 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 46.05 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at -53.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Thick Film Resistors - SMD 0603 32.4Kohms 0.2W 1% AEC-Q200"
+			(at 142.24 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at -253.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F3242V"
+			(at -353.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-P03F3242V?qs=18kBAoNi3c8mR1RN8vTo%2Fg%3D%3D"
+			(at -453.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at -553.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F3242V"
+			(at -653.95 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bbd94d97-ea9a-41ed-933d-65215d4e976f")
+		)
+		(pin "2"
+			(uuid "be4172c2-9623-4ee0-a232-034c20128cf8")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R7")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R14")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R22")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R30")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R38")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R44")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R52")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LM2902KPWR:LM2902KPWR")
+		(at 86.36 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cfa6ba50-0e2b-4f99-a1a7-1a005f7a1e02")
+		(property "Reference" "IC3"
+			(at 102.87 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LM2902KPWR"
+			(at 102.87 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "mod:SOP65P640X120-14N"
+			(at 115.57 134.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/lm2902k"
+			(at 115.57 234.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Texas Instruments LM2902KPWR, Quad Op Amp, 1.2MHz, 5  24 V, 14-Pin TSSOP"
+			(at 86.36 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.2"
+			(at 115.57 434.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-LM2902KPWR"
+			(at 115.57 534.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2902KPWR?qs=VBduBm9rCJS2177%2FTaHdGg%3D%3D"
+			(at 115.57 634.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 115.57 734.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "LM2902KPWR"
+			(at 115.57 834.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "1716f3e3-e134-42f5-92a6-5aa0af268d0b")
+		)
+		(pin "2"
+			(uuid "14236cae-4356-4ca5-b8d2-9919271eb4c9")
+		)
+		(pin "12"
+			(uuid "561bcf18-d3b0-4b6b-9099-e735ae5f44d9")
+		)
+		(pin "3"
+			(uuid "6441869e-2179-431c-a986-942e74a17d78")
+		)
+		(pin "10"
+			(uuid "e881ace4-d905-426e-ad9a-af453b142fe4")
+		)
+		(pin "9"
+			(uuid "4a39ff17-8045-4d5e-8082-cfd1b219fd75")
+		)
+		(pin "5"
+			(uuid "fa58a711-b79d-4d21-a043-acd294fe2930")
+		)
+		(pin "4"
+			(uuid "da52aa59-6498-448e-90ef-da8d67a6165e")
+		)
+		(pin "6"
+			(uuid "ac737a64-f726-4262-8869-97fe5a04591d")
+		)
+		(pin "1"
+			(uuid "7247ffd3-2736-4aca-a48f-90ec85f5c2ab")
+		)
+		(pin "11"
+			(uuid "55871b3b-e076-45b6-8a30-a84aabebe357")
+		)
+		(pin "7"
+			(uuid "8badb1b6-672b-40fa-b905-10e57099f69b")
+		)
+		(pin "13"
+			(uuid "fb1cd9fe-1265-40df-84c0-c74fe84fc69d")
+		)
+		(pin "14"
+			(uuid "5f47b686-a267-4a5e-ba80-59c89d97ed7e")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "IC3")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "IC4")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "IC5")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "IC20")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "IC2")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "IC21")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "IC22")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "IC24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDS")
+		(at 134.62 77.47 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de6c5065-7559-4705-bf21-0af972eae3c0")
+		(property "Reference" "#PWR09"
+			(at 134.62 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDS"
+			(at 134.62 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDS\" , signal ground"
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "60878af1-0261-4a84-aacd-da19a3a87fc4")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "#PWR09")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "#PWR013")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "#PWR019")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "#PWR025")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "#PWR058")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "#PWR061")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "#PWR067")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ERJ-P03F4021V:ERJ-P03F4021V")
+		(at 71.12 76.2 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f1cac5bc-9a06-4bd6-9c99-b7cfa50f8fa1")
+		(property "Reference" "R4"
+			(at 66.802 65.532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "4.02 kΩ"
+			(at 67.31 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" "mod:RESC1609X55N"
+			(at 167.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C102.pdf"
+			(at 267.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Anti-Surge Thick Film Chip Resistor, 0603"
+			(at 71.12 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.55"
+			(at 467.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW12064K02FKEAH"
+			(at 567.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW12064K02FKEAHP?qs=ua4hIysp8dKH7mznMDiMrw%3D%3D"
+			(at 667.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 767.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-P03F4021V"
+			(at 867.31 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "39dfaff7-2e4e-46de-957d-fbf75418e0dc")
+		)
+		(pin "1"
+			(uuid "fcc9cd3f-406c-411d-ad4d-a872f4538bbe")
+		)
+		(instances
+			(project "PLC-CIM"
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/ce213375-a533-4d97-893f-2e94b3aa8a36"
+					(reference "R4")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/71a38032-30d5-411a-9044-eccafdb35a16"
+					(reference "R12")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9a43b708-275b-4d2d-87d4-daeec5fe166b"
+					(reference "R20")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c05b4699-86ce-48cc-a72b-a164e2dafb15"
+					(reference "R28")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/84c37f3f-4410-412b-9e39-9ccd0e9aaf99"
+					(reference "R36")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/176bff47-80cd-4bff-9c8f-301b18f21cd7"
+					(reference "R42")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/9e48c8ab-08b0-46f6-bd32-72d93bdc173f"
+					(reference "R50")
+					(unit 1)
+				)
+				(path "/98f81d77-8880-491b-a7cf-4c27e2d73edf/c84ab274-6d38-4caa-9005-02068fc88336"
+					(reference "R58")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

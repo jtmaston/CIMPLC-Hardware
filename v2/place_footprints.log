@@ -1,0 +1,31 @@
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'darwin'
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.1
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x13168b4c0>
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC19 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC18 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC17 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC16 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC15 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint IC1 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint G*** on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint G*** on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint G*** on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+04-08 01:48:47 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint G*** on root level
+04-08 01:48:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 830:Reference designator is: IC
+04-08 01:48:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 831:Reference number is: 6
+04-08 01:48:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 863:Sorted and filtered list:
+['IC1', 'IC2', 'IC3', 'IC4', 'IC5', 'IC6', 'IC7', 'IC8', 'IC9', 'IC10', 'IC11', 'IC12', 'IC13', 'IC14', 'IC15', 'IC16', 'IC17', 'IC18', 'IC19']
+04-08 01:48:49 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 359:wx.Colour(38, 38, 38, 255)
+04-08 01:48:55 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 490:'13.5'
+04-08 01:48:55 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 536:Preparing config for reference linear
+04-08 01:48:55 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 556:Saving config file
+04-08 01:48:55 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 558:Saved the config file
+04-08 01:48:55 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 901:Footprints to place:
+['IC1', 'IC2', 'IC3', 'IC4', 'IC5', 'IC6', 'IC7', 'IC8', 'IC9', 'IC10', 'IC11', 'IC12', 'IC13', 'IC14', 'IC15', 'IC16', 'IC17', 'IC18', 'IC19']
+04-08 01:48:55 com_github_MitjaNemec_PlaceFootprints.place_footprints 367:Starting placing with linear layout
+04-08 01:48:55 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 942:Placing complete

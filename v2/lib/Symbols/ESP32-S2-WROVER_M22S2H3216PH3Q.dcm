@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP ESP32-S2-WROVER_M22S2H3216PH3Q0_
-D WiFi Modules (802.11) Module ESP32-S2 WROVER PCB ANT
-K
-F https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
-$ENDCMP
-#
-#End Doc Library
